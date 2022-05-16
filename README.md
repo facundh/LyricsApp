@@ -19,6 +19,9 @@ Contenido y características.
 
 2. Escribe el nombre de la canción que quieras.
 
+3. Apreta en Search
+
+4. Ya tenes tu letra
 
 Instalación 🔧.
 
