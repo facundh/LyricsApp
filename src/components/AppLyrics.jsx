@@ -18,7 +18,7 @@ const AppLyrics = () => {
              <Alerta>{alerta}</Alerta> 
              : letra ? <Letra /> 
              : cargando ? <Spinner />
-             : <p className="text-center">Busca letras de tus artistas favoritos</p>}
+             : <p className="text-center">Find lyrics from your favorite artists</p>}
 
         
       </main>

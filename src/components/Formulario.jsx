@@ -11,7 +11,7 @@ const Formulario = () => {
     e.preventDefault();
 
     if (Object.values(busqueda).includes("")) {
-      setAlerta('Coloca nombre de artista o canción')
+      setAlerta('Enter the name of the artist or song')
       return
     }
     busquedaLetra(busqueda);
@@ -19,14 +19,14 @@ const Formulario = () => {
   };
   return (
     <form onSubmit={handleSubmit}>
-      <legend> Busca por Artistas o Canción </legend>
+      <legend> Search by Artists or Song </legend>
       <div className="form-grid">
         <div>
-          <label htmlFor="">Artista</label>
+          <label htmlFor="">Artist</label>
           <input
             type="text"
             name="artista"
-            placeholder="Busca tu artista"
+            placeholder="Artist"
             value={busqueda.artista}
             onChange={(e) =>
               setBusqueda({
@@ -37,11 +37,11 @@ const Formulario = () => {
           />
         </div>
         <div>
-          <label htmlFor="">Canción</label>
+          <label htmlFor="">Song</label>
           <input
             type="text"
             name="cancion"
-            placeholder="Busca tu canción"
+            placeholder="Song"
             value={busqueda.cancion}
             onChange={(e) =>
               setBusqueda({
@@ -51,7 +51,7 @@ const Formulario = () => {
             }
           />
         </div>
-        <input type="submit" value="Buscar" />
+        <input type="submit" value="Search" />
       </div>
     </form>
   );
