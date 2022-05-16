@@ -1,9 +1,9 @@
 # LyricsApp
 
-##Muy accesible
+## Muy accesible
 ![image](https://user-images.githubusercontent.com/90207514/168664657-75629312-daa3-4650-8ba2-09110b45c6a5.png)
 
-##Obtené la letra de las canciones de tus artistas favoritos
+## Obtené la letra de las canciones de tus artistas favoritos
 ![image](https://user-images.githubusercontent.com/90207514/168665319-2b2f2f3c-9661-4248-8d56-f90d0304125c.png)
 
 
