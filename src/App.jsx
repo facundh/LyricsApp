@@ -1,13 +1,16 @@
-
-import AppLyrics from './components/AppLyrics'
+import AppLyrics from "./components/AppLyrics";
+import { LetrasProvider } from "./context/LetrasProvider";
 
 
 function App() {
- 
 
+  
+  
   return (
-    <AppLyrics />
-  )
+    <LetrasProvider>
+      <AppLyrics />
+    </LetrasProvider>
+  );
 }
 
-export default App
+export default App;

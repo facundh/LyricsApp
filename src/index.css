@@ -1,11 +1,11 @@
 body {
-  background-color: #fafafa;
+  background-color: lightseagreen;
 }
 header {
-  background-color: #6d28d9;
+  background-color: steelblue;
   padding: 2rem 0;
   text-align: center;
-  color: white;
+  color: black;
   font-size: 2.4rem;
   text-transform: uppercase;
   font-weight: bold;
@@ -59,7 +59,7 @@ form input[type="text"] {
   padding: .5rem
 }
 form input[type="submit"] {
-  background-color: #7c3aed;
+  background-color: #4c70be;
   border: none;
   border-radius: .5rem;
   font-size: 1.3rem;
@@ -74,7 +74,8 @@ form input[type="submit"] {
 }
 form input[type="submit"]:hover {
   cursor: pointer;
-  background-color: #6d28d9;
+  background-color: skyblue;
+  color: black;
 }
 
 
