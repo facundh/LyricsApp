@@ -15,7 +15,7 @@
 
 Contenido y características.
 
-1.Escribe el nombre de tu banda.
+1. Escribe el nombre de tu banda.
 
 2. Escribe el nombre de la canción que quieras.
 
