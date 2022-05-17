@@ -33,7 +33,7 @@ Para poder iniciar el presente proyecto debe ejectuar : npm run dev
 
 Construido con 🛠️.
 
-HTML, CSS, Javascript, React JS, React Circular Progressbar.
+HTML, CSS, Javascript, React JS.
 
 Autor ✒️.
 
